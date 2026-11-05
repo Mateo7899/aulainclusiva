@@ -66,6 +66,7 @@ return [
     */
 
 'timezone' => 'America/Bogota',
+'admin_password' => env('ADMIN_PASSWORD'),
     /*
     |--------------------------------------------------------------------------
     | Application Locale Configuration
